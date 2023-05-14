@@ -26,3 +26,4 @@
 # Tools used for the Hackathon
 ![toucan-protocol](https://github.com/chemotronix/BWC-Celo-Hackathon/assets/75363356/e62b36e6-5f73-40a0-87d6-657ed5e335ae)
 ![Celo_Logo](https://github.com/chemotronix/BWC-Celo-Hackathon/assets/75363356/fe7618e3-a09d-46ed-8b24-20f52130ed23)
+![React_logo_wordmark](https://github.com/chemotronix/BWC-Celo-Hackathon/assets/75363356/f43f68aa-ef3f-43f6-a3f4-e31dc51d2ff5)
